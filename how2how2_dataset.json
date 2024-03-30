@@ -1,0 +1,1847 @@
+{
+    "domain":{
+        "Nursing and Care":{
+            "task":{
+                "PutOnHairExtensions":{
+                    "step":{
+                        "pull up the hair to reserve place for the hair extensions":{
+                            "G9WenflIYCg":{
+                                "segment":[27.0, 53.0],
+                                "annotation":[
+                                    {
+                                        "label":"grasp the hair with hands by holding it",
+                                        "segment":[27.0, 27.5]
+                                    },
+                                    {
+                                        "label":"brush the hair with hands by sliding the hands through it",
+                                        "segment":[27.5, 28.5]
+                                    },
+                                    {
+                                        "label":"grasp the hair with hands by holding it",
+                                        "segment":[28.5, 28.5]
+                                    },
+                                    {
+                                        "label":"flip the hair with hands by placing it oppositely",
+                                        "segment":[28.5, 29.0]
+                                    },
+                                    {
+                                        "label":"fix the hair with pin by pinning it ",
+                                        "segment":[29.0, 32.0]
+                                    },
+                                    {
+                                        "label":"grasp the hair with hands",
+                                        "segment":[32.0, 47.0]
+                                    },
+                                    {
+                                        "label":"brush the hair with hands by sliding it between the hair",
+                                        "segment":[47.0, 53.0]
+                                    }
+                                ]
+                            },
+                            "ApglQCcWHVE":{
+                                "segment":[16.0, 26.0],
+                                "annotation":[
+                                    {
+                                        "label":"grasp the hair with hands by holding it",
+                                        "segment":[16.0, 17.0] 
+                                    },
+                                    {
+                                        "label":"separate the hair with brush by placing the brush under the hair horizontally",
+                                        "segment":[17.0, 18.0]
+                                    },
+                                    {
+                                        "label":"untangle the hair with curling iron by sliding the curling iron through the hair vertically",
+                                        "segment":[18.0, 21.0]
+                                    },
+                                    {
+                                        "label":"grasp the hair with hands by holding it",
+                                        "segment":[21.0, 21.0]
+                                    },
+                                    {
+                                        "label":"seperate the hair with comb by making a horizontal part",
+                                        "segment":[21.0, 23.0]
+                                    },
+                                    {
+                                        "label":"flip the top part of the hair with hands by placing it oppositely",
+                                        "segment":[23.0, 25.0]
+                                    },
+                                    {
+                                        "label":"fix the top part of the hair with clip",
+                                        "segment":[25.0, 26.0]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "RemoveBlackheadsWithGlue":{
+                    "step":{
+                        "wipe the glue to a layer": {
+                            "ubRsfnqiORg": {
+                                "segment": [
+                                    16.5,
+                                    23.5
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "wipe the glue on face with brush by moving the brush horizontally",
+                                        "segment": [
+                                            16.5,
+                                            23.5
+                                        ]
+                                    }
+                                ]
+                            },
+                            "JaLZIAYOZu0": {
+                                "segment": [
+                                    98.0,
+                                    137.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "rub the hand with toothbrush by stirring the toothbrush circularly",
+                                        "segment": [
+                                            98.0,
+                                            110.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "add mixture to toothbrush with hands by dipping the toothbrush in the cup ",
+                                        "segment": [
+                                            110.0,
+                                            115.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "rub the hand with toothbrush by stirring the toothbrush circularly",
+                                        "segment": [
+                                            122.0,
+                                            129.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "remove the glue on the edge of the hand with hands by wipping it off",
+                                        "segment": [
+                                            129.0,
+                                            132.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "rub the hand with toothbrush by stirring the toothbrush circularly",
+                                        "segment": [
+                                            132.0,
+                                            137.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Sport":{
+            "task":{
+                "PlayCurling":{
+                    "step":{
+                        "push curling": {
+                            "nEvpvV7gAYg": {
+                                "segment": [
+                                    3.0,
+                                    6.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "push the curling stone with hands by giving a counter-clockwise spin",
+                                        "segment": [
+                                            3.0,
+                                            6.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "AdFxlu0vhs8": {
+                                "segment": [
+                                    6.0,
+                                    9.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "push the curling stone with hands by giving a clockwise spin",
+                                        "segment": [
+                                            6.0,
+                                            9.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "ThrowHammer":{
+                    "step":{
+                        "pre-swing": {
+                            "Aao-7h3-Ueo": {
+                                "segment": [
+                                    0.0,
+                                    4.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "swing the hammer with hands by rotating it clockwisely around the body",
+                                        "segment": [
+                                            0.0,
+                                            1.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "swing the hammer with hands by rotating it counter-clockwisely around the body",
+                                        "segment": [
+                                            1.0,
+                                            4.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "s7AakIQnufo": {
+                                "segment": [
+                                    24.0,
+                                    28.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "swing the hammer with hands by rotating it clockwisely around the body",
+                                        "segment": [
+                                            24.0,
+                                            26.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "swing the hammer with hands by rotating it counter-clockwisely around the body",
+                                        "segment": [
+                                            26.0,
+                                            28.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Vehicle":{
+            "task":{
+                "InstallBicycleRack":{
+                    "step":{
+                        "mount the bracket to the back of the car": {
+                            "EKURr4RpGAQ": {
+                                "segment": [
+                                    17.0,
+                                    31.5
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "mount the bike rack to the back of the SUV with hands by holding it straightly",
+                                        "segment": [
+                                            17.0,
+                                            20.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "hold the top bar of the bike rack with hands by pressing it",
+                                        "segment": [
+                                            20.0,
+                                            22.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "hold the bottom bar of the bike rack with hands by pressing it",
+                                        "segment": [
+                                            22.0,
+                                            27.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "straighten the string of the bike rack with hands by pulling it outwardly",
+                                        "segment": [
+                                            27.0,
+                                            31.5
+                                        ]
+                                    }
+                                ]
+                            },
+                            "ZfPGAyll1-k": {
+                                "segment": [
+                                    24.0,
+                                    35.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "mount the bike rack to the back of the SUV with hands by holding it straightly",
+                                        "segment": [
+                                            24.0,
+                                            28.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "push the levers with hands by pressing it inwardly",
+                                        "segment": [
+                                            28.0,
+                                            30.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "tighten the inner cups with hands by rotating it clockwisely",
+                                        "segment": [
+                                            30.0,
+                                            35.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "ReplaceAWiperHead":{
+                    "step":{
+                        "take out the wiper": {
+                            "Li-cOP8J-g8": {
+                                "segment": [
+                                    10.0,
+                                    17.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "lift the wiper out with hands by pulling it outwardly",
+                                        "segment": [
+                                            10.0,
+                                            12.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "push the blade of the wiper with hands by pressing it inwardly",
+                                        "segment": [
+                                            12.0,
+                                            16.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "remove the blade of the wiper with hands by pulling it outwardly",
+                                        "segment": [
+                                            16.0,
+                                            17.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "gVTs6Zf27HE": {
+                                "segment": [
+                                    21.0,
+                                    36.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "pop out the lid with screwdriver by pulling it outwardly",
+                                        "segment": [
+                                            21.0,
+                                            27.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "tilt the blade of the wiper with hands by rotating it vertically",
+                                        "segment": [
+                                            27.0,
+                                            31.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "remove the blade of the wiper with hands by pulling it inwardly",
+                                        "segment": [
+                                            31.0,
+                                            36.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Science and Craft":{
+            "task":{
+                "MakeSlimeWithGlue":{
+                    "step":{
+                        "rub and drag the materials": {
+                            "4RyWpsr6S4E": {
+                                "segment": [
+                                    147.0,
+                                    179.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "remove the material from the spoon with hands by pulling it outwardly",
+                                        "segment": [
+                                            147.0,
+                                            150.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "make the material into a ball with hands by rubbing it",
+                                        "segment": [
+                                            150.0,
+                                            160.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "squeeze the material with hands by pressing it evenly",
+                                        "segment": [
+                                            160.0,
+                                            163.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands by pulling it oppositely",
+                                        "segment": [
+                                            163.0,
+                                            170.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "make the material ball-like with hands by rubbing it",
+                                        "segment": [
+                                            170.0,
+                                            173.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands by pulling it oppositely",
+                                        "segment": [
+                                            173.0,
+                                            179.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "SSYpNt311jg": {
+                                "segment": [
+                                    146.0,
+                                    185.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "take out the material with hands by lifting it",
+                                        "segment": [
+                                            146,
+                                            0,
+                                            146.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            146.5,
+                                            147.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            147.0,
+                                            148.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            148.0,
+                                            148.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            148.5,
+                                            149.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            149.0,
+                                            149.25
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            149.25,
+                                            149.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            150.0,
+                                            151.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            151.0,
+                                            151.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            151.5,
+                                            152.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            152.0,
+                                            152.25
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            152.25,
+                                            152.75
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            152.75,
+                                            153.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            153.0,
+                                            153.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            153.5,
+                                            154.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            154.0,
+                                            154.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            154.5,
+                                            155.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            155.0,
+                                            155.75
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            155.75,
+                                            156.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            156.0,
+                                            156.75
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            156.75,
+                                            157.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            157.0,
+                                            158.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "twist the material with hands",
+                                        "segment": [
+                                            158.0,
+                                            160.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "roll the material around itself with hands",
+                                        "segment": [
+                                            160.0,
+                                            163.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            163.0,
+                                            164.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "twist the material with hands",
+                                        "segment": [
+                                            164.0,
+                                            166.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "roll the material around itself with hands",
+                                        "segment": [
+                                            166.0,
+                                            167.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            167.5,
+                                            168.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "fold the material with hands",
+                                        "segment": [
+                                            168.0,
+                                            169.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            169.0,
+                                            170.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "twist the material with hands",
+                                        "segment": [
+                                            170.0,
+                                            171.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "fold the material with hands",
+                                        "segment": [
+                                            171.0,
+                                            172.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "twist the material with hands",
+                                        "segment": [
+                                            172.0,
+                                            174.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "roll the material around itself with hands",
+                                        "segment": [
+                                            174.0,
+                                            175.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "crumple the material with hands",
+                                        "segment": [
+                                            175.0,
+                                            178.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            178.0,
+                                            180.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "fold the material with hands",
+                                        "segment": [
+                                            180.0,
+                                            180.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "fold the material with hands",
+                                        "segment": [
+                                            180.5,
+                                            181.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            181.0,
+                                            181.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "fold the material with hands",
+                                        "segment": [
+                                            181.5,
+                                            182.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            182.0,
+                                            182.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "fold the material with hands",
+                                        "segment": [
+                                            182.5,
+                                            183.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "stretch the material with hands",
+                                        "segment": [
+                                            183.0,
+                                            183.5
+                                        ]
+                                    },
+                                    {
+                                        "label": "roll the material around itself with hands",
+                                        "segment": [
+                                            183.5,
+                                            185.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "MakeFlowerCrown":{
+                    "step":{
+                        "stick or bind flower to the frame": {
+                            "olVp67R4sLo": {
+                                "segment": [
+                                    17.0,
+                                    38.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "place the ornament to the frame with hands",
+                                        "segment": [
+                                            17.0,
+                                            19.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "coil the wire with hands by wrapping around the frame",
+                                        "segment": [
+                                            19.0,
+                                            20.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "cut the upper stem of the flower with scissors",
+                                        "segment": [
+                                            20.0,
+                                            22.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "coil the wire with hands by wrapping around the frame",
+                                        "segment": [
+                                            22.0,
+                                            24.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "cut the upper stem of the flower with scissors",
+                                        "segment": [
+                                            24.0,
+                                            28.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "coil the wire with hands by wrapping around the frame",
+                                        "segment": [
+                                            28.0,
+                                            30.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "place the ornament to the frame with hands",
+                                        "segment": [
+                                            30.0,
+                                            33.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "coil the wire with hands by wrapping around the frame",
+                                        "segment": [
+                                            33.0,
+                                            38.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "3go_XTFz32o": {
+                                "segment": [
+                                    73.0,
+                                    96.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "put glue on the bottom part of the flower with glue gun",
+                                        "segment": [
+                                            73.0,
+                                            75.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "remove the lingering glue with glue gun by rubbing it",
+                                        "segment": [
+                                            75.0,
+                                            78.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "put the flower on the frame with hands by placing it firmly",
+                                        "segment": [
+                                            78.0,
+                                            88.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "put glue on the bottom part of the flower with glue gun",
+                                        "segment": [
+                                            88.0,
+                                            91.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "remove the lingering glue with hands by pinching it",
+                                        "segment": [
+                                            91.0,
+                                            93.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "put the flower on the frame with hands by placing it firmly",
+                                        "segment": [
+                                            93.0,
+                                            96.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Electrical Appliance":{
+            "task":{
+                "CleanLaptopKeyboard":{
+                    "step":{
+                        "clean the inside of the button": {
+                            "fx2ZilgEmA0": {
+                                "segment": [
+                                    48.0,
+                                    51.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "rub the keyboard with swab by moving the swab back and forth",
+                                        "segment": [
+                                            48.0,
+                                            51.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "aTmOn_TXm24": {
+                                "segment": [
+                                    61.0,
+                                    73.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "release the solution with pen by pushing the pen",
+                                        "segment": [
+                                            61.0,
+                                            65.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "distribute the solution with pen by moving the pen",
+                                        "segment": [
+                                            65.0,
+                                            73.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "MakeRJ45Cable":{
+                    "step":{
+                        "cut a certain length": {
+                            "mIm14jLritI": {
+                                "segment": [
+                                    137.0,
+                                    148.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "place the wires inside the crimp tool with hands",
+                                        "segment": [
+                                            137.0,
+                                            139.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "grap the wires with hands",
+                                        "segment": [
+                                            139.0,
+                                            148.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "cut the wires with crimp tool by pressing the crimp tool firmly",
+                                        "segment": [
+                                            142.0,
+                                            144.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "ZGBnn-rZOng": {
+                                "segment": [
+                                    116.0,
+                                    120.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "cut the wires with scissors",
+                                        "segment": [
+                                            116.0,
+                                            120.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Furniture and Decoration":{
+            "task":{
+                "InstallClosestool":{
+                    "step":{
+                        "connect the water pipe": {
+                            "L-WyUkXq3HY": {
+                                "segment": [
+                                    146.0,
+                                    170.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "connect the water pipe to the toilet with hands",
+                                        "segment": [
+                                            146,
+                                            0,
+                                            148.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "tighten the connecter of the water pipe with hands by rotating it counter-clockwisely",
+                                        "segment": [
+                                            148.0,
+                                            159.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "tighten the connecter of the water pipe with wrench by rotating it counter-clockwisely",
+                                        "segment": [
+                                            159.0,
+                                            170
+                                        ]
+                                    }
+                                ]
+                            },
+                            "MJUi2-anXgc": {
+                                "segment": [
+                                    69.0,
+                                    73.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "tighten the connecter of the water pipe with wrench by rotating it counter-clockwisely",
+                                        "segment": [
+                                            69.0,
+                                            71.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "turn on the water supplier with hands by rotating the knob counter-clockwisely",
+                                        "segment": [
+                                            71.0,
+                                            73.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "ReplaceDoorKnob":{
+                    "step":{
+                        "install the new door knob": {
+                            "Qr-KBk_5Pys": {
+                                "segment": [
+                                    105.5,
+                                    112.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "insert the handle to the door with hands by sliding it over the end",
+                                        "segment": [
+                                            105.5,
+                                            109.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "tighten the handle with hands by rotating it counter-clockwisely",
+                                        "segment": [
+                                            109.0,
+                                            110.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "fix the handle with hands by pushing it firmly",
+                                        "segment": [
+                                            110.0,
+                                            112.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "KFksbO7-XoI": {
+                                "segment": [
+                                    66.0,
+                                    80.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "insert the handle to the car door with hands by sliding it",
+                                        "segment": [
+                                            66.0,
+                                            74.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pull out the handle with hands",
+                                        "segment": [
+                                            74.0,
+                                            79.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "insert the other part of the handle to the car door with hands by pushing it inwardly",
+                                        "segment": [
+                                            76.0,
+                                            80.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Gadgets":{
+            "task":{
+                "MakeWirelessEarbuds":{
+                    "step":{
+                        "process the copper wire inside the earphone cable": {
+                            "wLfLFZq4OLg": {
+                                "segment": [
+                                    50.0,
+                                    70.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "straighten the wires with hands by sliding the hands through it",
+                                        "segment": [
+                                            50.0,
+                                            51.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "cut the red wire with scissors",
+                                        "segment": [
+                                            51.0,
+                                            57.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "burn the wires with lighter by spreading fire evenly",
+                                        "segment": [
+                                            57.0,
+                                            70.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "rv5REozhJlo": {
+                                "segment": [
+                                    15.0,
+                                    32.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "burn the wires with lighter by spreading fire evenly",
+                                        "segment": [
+                                            15.0,
+                                            26.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "straighten the wires with hands by scrubing it gentl",
+                                        "segment": [
+                                            26.0,
+                                            32.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "OpenALockWIthPaperclips":{
+                    "step":{
+                        "twist the paperclips by hands": {
+                            "pe-UkTLhiTg": {
+                                "segment": [
+                                    43.0,
+                                    67.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "shove the lock with paperclip by rotating the paperclip counter-clockwisely",
+                                        "segment": [
+                                            43.0,
+                                            53.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "turn the door knob with hands by rotating it back and forth",
+                                        "segment": [
+                                            48.0,
+                                            50.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "grab the door knob with hands",
+                                        "segment": [
+                                            53.0,
+                                            61.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "shove the lock with paperclip by pushing the paperclip firmly",
+                                        "segment": [
+                                            53.0,
+                                            61.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "shove the lock with paperclip by rotating the paperclip clockwisely",
+                                        "segment": [
+                                            61.0,
+                                            64.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "open the lock with hands by rotating it counter-clockwisely",
+                                        "segment": [
+                                            64.0,
+                                            67.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "IslJx3xizEE": {
+                                "segment": [
+                                    70.0,
+                                    87.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "shove the lock with paperclip by rotating it back and forth",
+                                        "segment": [
+                                            70.0,
+                                            71.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pull out the paperclip from the lock with hands",
+                                        "segment": [
+                                            71.0,
+                                            72.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "insert the paperclip inside the lock with hands",
+                                        "segment": [
+                                            72.0,
+                                            73.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "shove the lock with paperclip by rotating it back and forth",
+                                        "segment": [
+                                            73.0,
+                                            80.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "push the paperclip with hands by pressing it firmly",
+                                        "segment": [
+                                            80.0,
+                                            87.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+
+            }
+
+        },
+        "Drink and Snack":{
+            "task":{
+                "MakeHomemadeIceCream":{
+                    "step":{
+                        "stir the mixture": {
+                            "KObGbyuGybA": {
+                                "segment": [
+                                    70.0,
+                                    77.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "mix the mixture with whisk by stirring the whisk circularly",
+                                        "segment": [
+                                            70.0,
+                                            77.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "fSyosDDOl8A": {
+                                "segment": [
+                                    17.0,
+                                    21.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "mix the mixture with electric whisk by stirring the electric whisk circularly",
+                                        "segment": [
+                                            17.0,
+                                            21.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "MakeStrawberrySmoothie":{
+                    "step":{
+                        "put strawberries and other fruits into the juicer": {
+                            "HmaZw8PWKhY": {
+                                "segment": [
+                                    6.0,
+                                    27.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "pour strawberries to the mixer with cup by spreading it evenly",
+                                        "segment": [
+                                            6.0,
+                                            9.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pour bananas to the mixer with cup by spreading it evenly",
+                                        "segment": [
+                                            9.0,
+                                            13.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "put chia seeds to the mixer with tablespoon by spreading it evenly",
+                                        "segment": [
+                                            13.0,
+                                            18.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "put yogurt to the mixer with tablespoon by spreading it evenly",
+                                        "segment": [
+                                            18.0,
+                                            23.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pour lemon juice to the mixer with tablespoon by spreading it evenly",
+                                        "segment": [
+                                            23.0,
+                                            26.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "gd9I_A46R0Q": {
+                                "segment": [
+                                    57.0,
+                                    66.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "pour strawberries to the mixer with cup",
+                                        "segment": [
+                                            57.0,
+                                            61.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pour strawberries to the mixer with hands",
+                                        "segment": [
+                                            57.0,
+                                            61.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "close the mixer with mixer lid by covering it",
+                                        "segment": [
+                                            61.0,
+                                            66.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Leisure and Performance":{
+            "task":{
+                "ChangeGuitarStrings":{
+                    "step":{
+                        "fix the new string on the head of the guitar": {
+                            "QbmmdFC0pWg": {
+                                "segment": [
+                                    119.0,
+                                    130.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "wrap the string with hands by turning it counter-clockwisely",
+                                        "segment": [
+                                            119.0,
+                                            126.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "hold the top part of the string with hands by pressing it",
+                                        "segment": [
+                                            126.0,
+                                            130.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "straighten the string with hands",
+                                        "segment": [
+                                            128.0,
+                                            130.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "VHLqHIwWEnc": {
+                                "segment": [
+                                    57.0,
+                                    67.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "straighten the string with hands by pulling it gently",
+                                        "segment": [
+                                            57.0,
+                                            60.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "put the string in between the tuning post with hands by pressing it evenly",
+                                        "segment": [
+                                            60.0,
+                                            67.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "OpenChampagneBottle":{
+                    "step":{
+                        "open the bottle carefully": {
+                            "zHHSOKFzmYQ": {
+                                "segment": [
+                                    51.0,
+                                    54.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "scratch the side of the bottle with knife by rubbing it back and forth",
+                                        "segment": [
+                                            51.0,
+                                            53.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "open the bottle with knife by slicing the side of the bottle sharply",
+                                        "segment": [
+                                            53.0,
+                                            54.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "i-ocC8Xj050": {
+                                "segment": [
+                                    83.0,
+                                    107.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "cover the bottle with napkin by placing the napkin on top of it",
+                                        "segment": [
+                                            83.0,
+                                            87.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "hold the bottle diagonally with hands",
+                                        "segment": [
+                                            87.0,
+                                            93.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "twist the bottle with hands by turning the bottom part of the bottle gently",
+                                        "segment": [
+                                            93.0,
+                                            104.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pull out the cork with napkin",
+                                        "segment": [
+                                            104.0,
+                                            107.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Housework":{
+            "task":{
+                "IronClothes":{
+                    "step":{
+                        "iron the cloths with the iron": {
+                            "-Bhz4JLo9fU": {
+                                "segment": [
+                                    5.0,
+                                    13.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "iron the clothes with iron by sliding the iron back and forth",
+                                        "segment": [
+                                            5.0,
+                                            13.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "QWYNuhJZ30s": {
+                                "segment": [
+                                    51.0,
+                                    65.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "iron the clothes with iron by sliding the iron diagonally",
+                                        "segment": [
+                                            51.0,
+                                            65.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "CleanCementFloor":{
+                    "step":{
+                        "clean the floor": {
+                            "on05obGJce8": {
+                                "segment": [
+                                    21.0,
+                                    31.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "remove the debris with brush by pushing the brush outwardly",
+                                        "segment": [
+                                            21.0,
+                                            31.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "u9UUEteGtYU": {
+                                "segment": [
+                                    27.0,
+                                    37.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "distribute the solution with brush by pushing the brush back and forth",
+                                        "segment": [
+                                            27.0,
+                                            37.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Dish":{
+            "task":{
+                "CookOmelet":{
+                    "step":{
+                        "fry eggs": {
+                            "9eR7x93WqA8": {
+                                "segment": [
+                                    72.0,
+                                    93.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "distribute the uncooked eggs with spatula by spreading it evenly",
+                                        "segment": [
+                                            72.0,
+                                            76.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "lift the eggs with spatula",
+                                        "segment": [
+                                            76.0,
+                                            93.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "distribute the uncooked eggs with pan by rotating the pan circularly",
+                                        "segment": [
+                                            78.0,
+                                            93.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Pw1RNJ2xAXw": {
+                                "segment": [
+                                    107.0,
+                                    117.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "distribute the mixture with pan by rotating it circularly",
+                                        "segment": [
+                                            107.0,
+                                            117.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "UseRiceCookerToCookRice":{
+                    "step":{
+                        "soak and wash the rice": {
+                            "eIfuW2Xozoc": {
+                                "segment": [
+                                    42.0,
+                                    68.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "wash the rice with water",
+                                        "segment": [
+                                            42.0,
+                                            68.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "wash the rice with fine strainer by moving the fine strainer circularly",
+                                        "segment": [
+                                            42.0,
+                                            64.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "wash the rice with fine strainer by shaking the fine strainer",
+                                        "segment": [
+                                            64.0,
+                                            68.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "TUF1Onz9RKQ": {
+                                "segment": [
+                                    49.0,
+                                    74.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "soak the rice with water",
+                                        "segment": [
+                                            49.0,
+                                            51.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "wash the rice with water",
+                                        "segment": [
+                                            51.0,
+                                            60.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "wash the rice with bowl by shaking the bowl circularly",
+                                        "segment": [
+                                            51.0,
+                                            55.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "wash the rice with hands by fluttering the hands",
+                                        "segment": [
+                                            55.0,
+                                            65.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pour out the water with hands by tilting the bowl",
+                                        "segment": [
+                                            65.0,
+                                            74.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+
+        },
+        "Pets and Fruit":{
+            "task":{
+                "Transplant":{
+                    "step":{
+                        "take out the plant": {
+                            "7YhlSOpszB0": {
+                                "segment": [
+                                    61.0,
+                                    88.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "dig the soil with shovel",
+                                        "segment": [
+                                            61.0,
+                                            74.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "take out the plant with hands",
+                                        "segment": [
+                                            68.0,
+                                            76.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "take out the plant with shovel",
+                                        "segment": [
+                                            68.0,
+                                            76.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "remove the dirt with shovel by tapping the bottom part of the plant strongly",
+                                        "segment": [
+                                            76.0,
+                                            88.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "zys9YejztPE": {
+                                "segment": [
+                                    118.0,
+                                    135.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "grab the stem of the plant with hands",
+                                        "segment": [
+                                            118.0,
+                                            127.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "tilt the tray with hands by placing it horizontally",
+                                        "segment": [
+                                            120.0,
+                                            122.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "squeeze the bottom part of the tray with hands",
+                                        "segment": [
+                                            122.0,
+                                            127.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "pull out the plant with hands",
+                                        "segment": [
+                                            127.0,
+                                            135.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Sow":{
+                    "step":{
+                        "sow on the soil": {
+                            "dyiF2sbtqgg": {
+                                "segment": [
+                                    52.0,
+                                    66.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "pour out the seeds to hands with hands by tilting the package",
+                                        "segment": [
+                                            52.0,
+                                            57.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "scatter the seeds with hands by spreading it evenly",
+                                        "segment": [
+                                            57.0,
+                                            66.0
+                                        ]
+                                    }
+                                ]
+                            },
+                            "th2wZ0W8ulA": {
+                                "segment": [
+                                    66.0,
+                                    84.0
+                                ],
+                                "annotation": [
+                                    {
+                                        "label": "pour out the seeds with hand seeder by shaking the hand seeder",
+                                        "segment": [
+                                            73.0,
+                                            84.0
+                                        ]
+                                    },
+                                    {
+                                        "label": "distribute the seeds with hand seeder by moving the hand seeder horizontally",
+                                        "segment": [
+                                            73.0,
+                                            84.0
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
